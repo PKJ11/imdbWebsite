@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/imdbWebsite/static/css/main.edad13f1.css",
+    "main.js": "/imdbWebsite/static/js/main.9f2fab1a.js",
+    "static/media/imdb-logo.png": "/imdbWebsite/static/media/imdb-logo.798e9a38f7dd3c5a3a31.png",
+    "index.html": "/imdbWebsite/index.html",
+    "main.edad13f1.css.map": "/imdbWebsite/static/css/main.edad13f1.css.map",
+    "main.9f2fab1a.js.map": "/imdbWebsite/static/js/main.9f2fab1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edad13f1.css",
+    "static/js/main.9f2fab1a.js"
+  ]
+}
