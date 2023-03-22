@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/imdbWebsite/static/css/main.edad13f1.css",
-    "main.js": "/imdbWebsite/static/js/main.9f2fab1a.js",
-    "static/media/imdb-logo.png": "/imdbWebsite/static/media/imdb-logo.798e9a38f7dd3c5a3a31.png",
-    "index.html": "/imdbWebsite/index.html",
-    "main.edad13f1.css.map": "/imdbWebsite/static/css/main.edad13f1.css.map",
-    "main.9f2fab1a.js.map": "/imdbWebsite/static/js/main.9f2fab1a.js.map"
+    "main.css": "/my-app/static/css/main.edad13f1.css",
+    "main.js": "/my-app/static/js/main.ab827dc9.js",
+    "static/media/imdb-logo.png": "/my-app/static/media/imdb-logo.798e9a38f7dd3c5a3a31.png",
+    "index.html": "/my-app/index.html",
+    "main.edad13f1.css.map": "/my-app/static/css/main.edad13f1.css.map",
+    "main.ab827dc9.js.map": "/my-app/static/js/main.ab827dc9.js.map"
   },
   "entrypoints": [
     "static/css/main.edad13f1.css",
-    "static/js/main.9f2fab1a.js"
+    "static/js/main.ab827dc9.js"
   ]
 }
