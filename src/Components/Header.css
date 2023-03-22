@@ -1,0 +1,95 @@
+.header {
+    margin: 0 2.5rem;
+    padding: .5rem 0;
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+    z-index: 10;
+    
+}
+.header img{
+    width: 100px ;
+}
+.headerLeft, .headerRight {
+    display: flex;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a > span{
+    margin: 0 30px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    color: white;
+}
+
+a > span:hover {
+    color: red;
+}
+
+.header__icon {
+    width: 80px;
+    cursor: pointer;
+}
+
+.user__avatar {
+    font-size: 2rem;
+}
+
+.hamburger{
+    display: none;
+
+}
+
+
+@media screen and (max-width: 1140px){
+    
+    .header img{
+        width: 50px;
+        position: absolute;
+        top: 3%;
+        left: 3%;
+    }
+    .headerLeft{
+        width: 100%;
+    }
+    .headerLeft1 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        left:0%;
+        transition: 0.8s;
+        /* z-index: -3; */
+    }
+    .active{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        left:-100%;
+        transition: 0.8s;
+    }
+    .headerLeft1 a{
+        margin-bottom: 10px ;
+        font-size: 28px;
+    }
+
+    .hamburger{
+        display: block;
+        position: absolute;
+        top: 5%;
+        right: 50px;
+    }
+    
+    
+}
